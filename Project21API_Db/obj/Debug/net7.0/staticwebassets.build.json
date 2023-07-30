@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0vBbJTdKhevnmBX2twQjsBFF0bfDDWbAkPmibWQlx9w=",
+  "Source": "Project21API_Db",
+  "BasePath": "_content/Project21API_Db",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project21API_Db\\wwwroot",
+      "Source": "Project21API_Db",
+      "ContentRoot": "F:\\C#\\Project21API_Db\\Project21API_Db\\wwwroot\\",
+      "BasePath": "_content/Project21API_Db",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\C#\\Project21API_Db\\Project21API_Db\\wwwroot\\Index.html",
+      "SourceId": "Project21API_Db",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\C#\\Project21API_Db\\Project21API_Db\\wwwroot\\",
+      "BasePath": "_content/Project21API_Db",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

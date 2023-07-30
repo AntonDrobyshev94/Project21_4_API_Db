@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\C#\\Project21API_Db\\Project21API_Db\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Project21API_Db.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Project21API_Db.props",
+      "PackagePath": "build\\Project21API_Db.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Project21API_Db.props",
+      "PackagePath": "buildMultiTargeting\\Project21API_Db.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Project21API_Db.props",
+      "PackagePath": "buildTransitive\\Project21API_Db.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
